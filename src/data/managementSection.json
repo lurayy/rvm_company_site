@@ -1,0 +1,14 @@
+{
+    "blocks": [
+        {
+            "id": 1,
+            "title": "Why us for your Mechanical needs?",
+            "description": "We bring a unique combination of expertise, experience, and dedication to every project. Our team of skilled engineers stays up-to-date with the latest advancements in the field, allowing us to provide customized solutions tailored to your specific requirements. We are committed to delivering high-quality results, on time and within budget, ensuring your complete satisfaction. With us, you can trust that your mechanical engineering needs are in capable hands."
+        },
+        {
+            "id": 2,
+            "title": "Why us for your next Software solution?",
+            "description": "We offer a comprehensive and customized approach to software development. Our team of experienced developers leverages cutting-edge technologies and methodologies to deliver high-quality software solutions that meet the unique needs of your business. With a focus on collaboration and communication, we work closely with you to understand your goals and bring your vision to life. Our commitment to excellence and a proven track record of successful projects makes us the ideal partner for all your software development needs."
+        }
+    ]
+}
